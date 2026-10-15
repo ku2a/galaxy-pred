@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 data/Galaxy10_DECals.h5
+.jupyter_ystore.db
+.jupyter

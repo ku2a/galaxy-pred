@@ -11,7 +11,6 @@ dependencies = [
     "h5py>=3.16.0",
     "ipykernel>=7.4.0",
     "jupyter>=1.1.1",
-    "jupyter-collaboration>=5.0.4",
     "matplotlib>=3.11.2",
     "numpy>=2.5.4",
     "opencv-python>=5.0.0.93",

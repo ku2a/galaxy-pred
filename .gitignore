@@ -11,3 +11,4 @@ wheels/
 data/Galaxy10_DECals.h5
 .jupyter_ystore.db
 .jupyter
+data/*.npy
